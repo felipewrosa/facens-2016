@@ -195,6 +195,7 @@ header a:hover{
 	text-align: center;
 	color: #888;
 	font-weight: bold;
+	padding-right: 41%;
 }
 
 .detail p {
@@ -254,7 +255,7 @@ header a:hover{
 .contato {
 	background-color: #074C00;
 	color: #fff;
-	min-height: 90vh;
+	min-height: 80vh;
 	padding: 5vh 5vw;
 	display: flex;
 	flex-flow: column;
